@@ -1853,6 +1853,7 @@ START: Theme Project CSS
 START: Theme Cta CSS
 ----------------------------------------*/
 .tj-cta-section {
+  padding-top: 90px;
   padding-bottom: 155px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -1943,8 +1944,8 @@ START: Theme FAQ CSS
 ----------------------------------------*/
 .faq-section.style-4 {
   background-color: var(--tj-theme-accent-1);
-  padding-top: 210px;
-  padding-bottom: 180px;
+  padding-top: 105px;
+  padding-bottom: 90px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .faq-section.style-4 {
@@ -1992,8 +1993,8 @@ START: Theme testimonial CSS
 ----------------------------------------*/
 .testimonial-section.style-4 {
   background-color: transparent;
-  padding-top: 170px;
-  padding-bottom: 0px;
+  padding-top: 110px;
+  padding-bottom: 105px;
 }
 .testimonial-section.style-4::before {
   display: none;
@@ -2308,7 +2309,7 @@ START: Theme Counter CSS
 START: Theme Progress CSS
 ----------------------------------------*/
 .tj-progress-section {
-  padding-bottom: 220px;
+  padding-bottom: 110px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tj-progress-section {
