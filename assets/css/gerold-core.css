@@ -1993,7 +1993,7 @@ START: Theme testimonial CSS
 ----------------------------------------*/
 .testimonial-section.style-4 {
   background-color: transparent;
-  padding-top: 110px;
+  padding-top: 90px;
   padding-bottom: 105px;
 }
 .testimonial-section.style-4::before {
@@ -2309,7 +2309,7 @@ START: Theme Counter CSS
 START: Theme Progress CSS
 ----------------------------------------*/
 .tj-progress-section {
-  padding-bottom: 110px;
+  padding-bottom: 90px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tj-progress-section {
@@ -2478,7 +2478,7 @@ START: Theme Work CSS
 ----------------------------------------*/
 .resume-section.style-4 {
   position: relative;
-  padding-top: 180px;
+  padding-top: 90px;
   padding-bottom: 180px;
   background-color: transparent;
   z-index: 1;
